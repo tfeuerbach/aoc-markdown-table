@@ -27,7 +27,6 @@ HEADER_PREFIX = os.environ.get("INPUT_HEADERPREFIX", "")
 README_LOCATION = os.environ.get("INPUT_READMELOCATION", "")
 
 #: Advent of Code base URL, for testing
-# ADVENT_URL = os.environ.get("ADVENT_URL", "https://adventofcode.com")
 ADVENT_URL = os.environ.get("ADVENT_URL", "https://github.com/tfeuerbach/advent_of_code/tree/main")
 
 #: Stars info endpoint
