@@ -1,5 +1,5 @@
-name: "advent-readme-stars"
-author: k2bd
+name: "aoc-markdown-table"
+author: tfeuerbach
 description: >
   Automatically update a README with an up-to-date table of your advent of code
   progress.
