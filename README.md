@@ -1,9 +1,8 @@
-# Advent README Stars
+# Advent of Code Markdown Table
 
-[![CI](https://github.com/k2bd/advent-readme-stars/actions/workflows/ci.yml/badge.svg)](https://github.com/k2bd/advent-readme-stars/actions/workflows/ci.yml)
-[![codecov](https://codecov.io/gh/k2bd/advent-readme-stars/branch/main/graph/badge.svg?token=J5FA3JU4OI)](https://codecov.io/gh/k2bd/advent-readme-stars)
+[![CI](https://github.com/tfeuerbach/aoc-markdown-table/actions/workflows/ci.yml/badge.svg)](https://github.com/tfeuerbach/aoc-markdown-table/actions/workflows/ci.yml)
 
-This [action](https://github.com/marketplace/actions/advent-readme-stars) adds and maintains a stars report in your README based on your [Advent of Code](https://adventofcode.com/) progress.
+This action is a duplicated and modified version of [advent_readme_stars](https://github.com/marketplace/actions/advent-readme-stars) that adds and maintains a stars report in your README based on your [Advent of Code](https://adventofcode.com/) progress.
 
 ## Example Table
 
@@ -122,7 +121,3 @@ Should be some kind of Markdown header level.
 *Optional* - default `README.md`
 
 Location of the README file to edit.
-
-## Like this project?
-
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/purple_img.png)](https://www.buymeacoffee.com/k2bd)
