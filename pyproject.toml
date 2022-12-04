@@ -31,13 +31,6 @@ autoformat.sequence = [
     {cmd = "isort src tests"},
 ]
 
-lint.sequence = [
-    {cmd = "black --check -v src tests"},
-    {cmd = "isort --check -v src tests"},
-    {cmd = "flake8 src tests"},
-    {cmd = "mypy --pretty src tests"},
-]
-
 [tool.poe.tasks.test]
 cmd = "pytest -vv --cov=advent_readme_stars --cov-report term --cov-report xml"
 
