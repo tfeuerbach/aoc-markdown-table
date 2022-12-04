@@ -12,7 +12,6 @@ platformdirs = "^2.4.0"
 
 [tool.poetry.dev-dependencies]
 pytest = "^5.2"
-pytest-cov = "^3.0.0"
 black = "^22.3.0"
 isort = "^5.10.1"
 flake8 = "^4.0.1"
@@ -40,7 +39,7 @@ INPUT_LEADERBOARDID = "9995999"
 INPUT_SESSIONCOOKIE = "998877665544332211"
 INPUT_TABLEMARKER = "<!--- advent_readme_stars table --->"
 INPUT_STARSYMBOL = "⭐"
-INPUT_YEAR = "2019"
+INPUT_YEAR = "2022"
 INPUT_HEADERPREFIX = "##"
 ADVENT_URL = "http://fake.site.tfeuerbach.dev"
 
