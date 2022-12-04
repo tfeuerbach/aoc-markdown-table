@@ -1,7 +1,7 @@
 import pytest
 
-from advent_readme_stars.constants import TABLE_MARKER
-from advent_readme_stars.update import (
+from src.advent_readme_stars.constants import TABLE_MARKER
+from src.advent_readme_stars.update import (
     insert_table,
     remove_existing_table,
     update_readme,
