@@ -3,7 +3,7 @@ from typing import Generator
 
 import requests
 
-from advent_readme_stars.constants import SESSION_COOKIE, STARS_ENDPOINT, USER_ID
+from src.advent_readme_stars.constants import SESSION_COOKIE, STARS_ENDPOINT, USER_ID
 
 
 @dataclass(frozen=True, eq=True)
