@@ -1,4 +1,4 @@
-from advent_readme_stars.progress import DayProgress, get_progress
+from src.advent_readme_stars.progress import DayProgress, get_progress
 
 from .helpers import EXAMPLE_DATA_1, EXAMPLE_DATA_2, EXAMPLE_DATA_3, mock_responses
 
