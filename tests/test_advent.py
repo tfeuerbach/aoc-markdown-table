@@ -2,7 +2,7 @@ from datetime import datetime
 
 import pytest
 
-from advent_readme_stars.advent import most_recent_advent_year
+from src.advent_readme_stars.advent import most_recent_advent_year
 
 
 @pytest.mark.parametrize(
