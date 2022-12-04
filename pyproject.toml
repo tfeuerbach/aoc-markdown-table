@@ -32,7 +32,7 @@ autoformat.sequence = [
 ]
 
 [tool.poe.tasks.test]
-cmd = "pytest -vv --cov=advent_readme_stars --cov-report term --cov-report xml"
+cmd = "pytest -vv"
 
 [tool.poe.tasks.test.env]
 INPUT_USERID = "1511815"
