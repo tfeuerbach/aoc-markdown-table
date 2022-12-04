@@ -8,16 +8,16 @@ from src.advent_readme_stars.update import (
 )
 
 DEFAULT_TABLE_CONTENT = [
-    "## 2019 Results",
+    "## 2022 Results",
     "",
     "| Day | Part 1 | Part 2 |",
     "| :---: | :---: | :---: |",
-    "| [Day 1](http://fake.site.k2bd.dev/2019/day/1) | ⭐ | ⭐ |",
-    "| [Day 2](http://fake.site.k2bd.dev/2019/day/2) | ⭐ |   |",
-    "| [Day 3](http://fake.site.k2bd.dev/2019/day/3) | ⭐ | ⭐ |",
-    "| [Day 4](http://fake.site.k2bd.dev/2019/day/4) | ⭐ |   |",
-    "| [Day 5](http://fake.site.k2bd.dev/2019/day/5) | ⭐ | ⭐ |",
-    "| [Day 6](http://fake.site.k2bd.dev/2019/day/6) | ⭐ | ⭐ |",
+    "| [Day 1](http://fake.site.tfeuerbach.dev/2022/day/1) | ⭐ | ⭐ |",
+    "| [Day 2](http://fake.site.tfeuerbach.dev/2022/day/2) | ⭐ |   |",
+    "| [Day 3](http://fake.site.tfeuerbach.dev/2022/day/3) | ⭐ | ⭐ |",
+    "| [Day 4](http://fake.site.tfeuerbach.dev/2022/day/4) | ⭐ |   |",
+    "| [Day 5](http://fake.site.tfeuerbach.dev/2022/day/5) | ⭐ | ⭐ |",
+    "| [Day 6](http://fake.site.tfeuerbach.dev/2022/day/6) | ⭐ | ⭐ |",
 ]
 
 
