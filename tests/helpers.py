@@ -5,7 +5,7 @@ from typing import Generator
 import responses
 from responses import RequestsMock
 
-from advent_readme_stars.constants import STARS_ENDPOINT
+from src.advent_readme_stars.constants import STARS_ENDPOINT
 
 _DATA_DIR = os.path.join(os.path.dirname(__file__), "data")
 EXAMPLE_DATA_1 = os.path.join(_DATA_DIR, "example1.json")
