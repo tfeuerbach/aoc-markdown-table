@@ -2,6 +2,7 @@ from typing import List
 
 from advent_readme_stars.constants import (
     ADVENT_URL,
+    REPO_URL,
     HEADER_PREFIX,
     STAR_SYMBOL,
     TABLE_MARKER,
@@ -53,7 +54,7 @@ def insert_table(lines: List[str]) -> List[str]:
     stars_info = sorted(list(get_progress()), key=lambda p: p.day)
 
     for star_info in stars_info:
-        day_url = f"{ADVENT_URL}/{YEAR}/day-0{star_info.day}"
+        day_url = f"{REPO_URL}/{YEAR}/day-0{star_info.day}"
         day_text = f"[Day {star_info.day}]({day_url})"
         part_1_text = STAR_SYMBOL if star_info.part_1 else " "
         part_2_text = STAR_SYMBOL if star_info.part_2 else " "
