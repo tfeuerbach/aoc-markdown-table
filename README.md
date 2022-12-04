@@ -7,7 +7,7 @@ This action is a duplicated and modified version of [advent_readme_stars](https:
 ## Example Table
 
 <!--- advent_readme_stars table example --->
-### 2022 Results
+### 🎄 2022 Progress 🎄
 
 | Day | Part 1 | Part 2 |
 | :---: | :---: | :---: |
