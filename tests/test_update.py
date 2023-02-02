@@ -8,7 +8,7 @@ from src.advent_readme_stars.update import (
 )
 
 DEFAULT_TABLE_CONTENT = [
-    "## 🎄 2022 Progress 🎄",
+    "## 2022 Progress",
     "",
     "| Day | Part 1 | Part 2 |",
     "| :---: | :---: | :---: |",
