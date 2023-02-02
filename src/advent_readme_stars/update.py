@@ -1,6 +1,6 @@
 from typing import List
 
-from src.advent_readme_stars.constants import (
+from advent_readme_stars.constants import (
     ADVENT_URL,
     REPO_URL,
     HEADER_PREFIX,
@@ -8,7 +8,7 @@ from src.advent_readme_stars.constants import (
     TABLE_MARKER,
     YEAR,
 )
-from src.advent_readme_stars.progress import get_progress
+from advent_readme_stars.progress import get_progress
 
 
 def remove_existing_table(lines: List[str]) -> List[str]:
