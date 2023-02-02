@@ -46,7 +46,7 @@ def insert_table(lines: List[str]) -> List[str]:
 
     to_insert = [
         TABLE_MARKER,
-        f"{HEADER_PREFIX} 🎄 {YEAR} Progress 🎄",
+        f"{HEADER_PREFIX} {YEAR} Progress",
         "",
         "| Day | Part 1 | Part 2 |",
         "| :---: | :---: | :---: |",
