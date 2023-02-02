@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "advent_readme_stars"
-version = "1.0.6"
+version = "1.0.7"
 description = "Duplicated and modified version of advent-readme-stars."
 authors = ["Thomas Feuerbach"]
 
